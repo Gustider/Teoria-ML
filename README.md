@@ -10,10 +10,10 @@ El objetivo principal es pasar de la ejecución del código a la comprensión pr
 
 | Módulo | Tema | Descripción / Conceptos Clave | Estado |
 | :--- | :--- | :--- | :---: |
-| `01-Regresion-Lineal` | **Regresión Lineal y Análisis de Residuos** | OLS, Gauss-Markov, Homocedasticidad, Normalidad de errores. |  Completado |
-| `02-Regresion-Logistica` | **Regresión Logística** | Sigmoide, Odds Ratio, Log-Loss, Matriz de Confusión, Curva ROC. |  Completado |
-| `03-Evaluación-y-Validación` | **Métricas y Validación** | Bias-Variance Tradeoff, Cross-Validation, Regularización ($L_1$, $L_2$). | 📅 Planificado |
-| `04-Modelos-Basados-en-Arboles` | **Árboles de Decisión y Ensembles** | Entropía, Gini, Random Forest, Gradient Boosting. | 📅 Planificado |
+| `01-Regresion-Lineal` | **Regresión Lineal y Análisis de Residuos** | OLS, Gauss-Markov, Homocedasticidad, Normalidad de errores. | ✅ Completado |
+| `02-Regresion-Logistica` | **Regresión Logística** | Sigmoide, Odds Ratio, Log-Loss, Matriz de Confusión, Curva ROC. | ✅ Completado |
+| `03-Evaluacion-y-Validacion` | **Métricas, Validación y Regularización** | Bias-Variance Tradeoff, Cross-Validation, Regularización ($L_1$, $L_2$). | ✅ Completado |
+| `04-Modelos-Basados-en-Arboles` | **Árboles de Decisión y Ensembles** | Entropía, Gini, Random Forest, Gradient Boosting. | ✅ Completado |
 
 ---
 
